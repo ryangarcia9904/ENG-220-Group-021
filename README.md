@@ -1,1 +1,3 @@
 # ENG-220-Group-021
+
+In this project, we chose to visualize the representation between the median household income correlated with the quality of life by county in New Mexico. When looking through our data we found a strong correlation between the amount of income a person make and their quality of life. We chose to represent the health of a county by the quality of life index, we feel that this most accurately represents the health of each county as it takes into account a bunch of different factors such as access to heath care, obesity rates, life expencenty, etc. When we correlated our data we found that the increase of quality of life directly correlates with the rise of income.  
